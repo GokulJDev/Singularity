@@ -12,7 +12,7 @@ body{
     height: 100vh;
     background-position: center;
     background-size: cover;
-    background-image: url('../Web/nature.jpg');
+    background-image: url('nature.jpg');
 }
 
 .blackish{
