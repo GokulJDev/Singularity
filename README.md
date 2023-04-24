@@ -1,4 +1,4 @@
-# Singularity
+# Landing Page
 
 Web Application built using HTML and CSS.
 
